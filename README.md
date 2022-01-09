@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @hendrixgod5594
+- 👀 I’m interested in learning web development and i'm an absoulute beginner
+- 🌱 I’m currently learning from the odin project
+- 💞️ I’m looking to collaborate on ...
+- 📫 hendrixgod5594@gmail.com
